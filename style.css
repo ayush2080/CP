@@ -1463,7 +1463,7 @@ nav {
         box-sizing: border-box;
     }
     .hero-responsive-gif {
-        max-width: 70%;
+        max-width: 80%;
         height: 50%;
         height: auto; /* Maintain aspect ratio */
         width: auto;  /* Maintain aspect ratio */
